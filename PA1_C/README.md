@@ -1,0 +1,2 @@
+Programming and Algorithm 1 teaches students how to develop algorithms and convert them into programs in the C programming language.
+Course syllabus includes data types (primitive, pointers, structures), statements, expressions, functions, recursion, algorithm complexity, debugging, and basic algorithms such as search, sort, linked list processing, and DFS.
